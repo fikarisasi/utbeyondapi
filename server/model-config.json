@@ -44,5 +44,9 @@
   "show-question-sql": {
     "dataSource": "mysql",
     "public": true
+  },
+  "showQuestion-sql": {
+    "dataSource": "mysql",
+    "public": true
   }
 }
