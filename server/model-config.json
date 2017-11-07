@@ -32,5 +32,17 @@
     "public": true,
     "$promise": {},
     "$resolved": true
+  },
+  "answer-sql": {
+    "dataSource": "mysql",
+    "public": true
+  },
+  "komentar-sql": {
+    "dataSource": "mysql",
+    "public": true
+  },
+  "show-question-sql": {
+    "dataSource": "mysql",
+    "public": true
   }
 }

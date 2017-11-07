@@ -13,5 +13,14 @@
     "name": "cloudant",
     "connector": "cloudant",
     "user": "8853d823-20cf-4bec-bc10-77d4583a3db0-bluemix"
+  },
+  "mysql": {
+    "host": "143.95.240.12",
+    "port": 3306,
+    "database": "tarikgan_utbeyond",
+    "username": "tarikgan_utbynd",
+    "password": "deddyM1ZW@R",
+    "name": "mysql",
+    "connector": "mysql"
   }
 }
