@@ -13,5 +13,19 @@
     "name": "cloudant",
     "connector": "cloudant",
     "user": "8853d823-20cf-4bec-bc10-77d4583a3db0-bluemix"
+  },
+
+  "cloudant2": {
+    "name": "cloudant2",
+    "connector": "cloudant2",
+    "database": "utbeyonddb",
+    "user": "714c992b-2b72-440c-9833-aea9d70400d0-bluemix",
+    "username": "714c992b-2b72-440c-9833-aea9d70400d0-bluemix",
+    "password": "3f32b9cdb4341e5ebf6e25146dde5f066f6bdcda31ba7bd4c0e640d279dadc72",
+    "host": "714c992b-2b72-440c-9833-aea9d70400d0-bluemix.cloudant.com",
+    "port": 443,
+    "url": "https://714c992b-2b72-440c-9833-aea9d70400d0-bluemix:3f32b9cdb4341e5ebf6e25146dde5f066f6bdcda31ba7bd4c0e640d279dadc72@714c992b-2b72-440c-9833-aea9d70400d0-bluemix.cloudant.com"
   }
+
+
 }

@@ -16,19 +16,19 @@
     ]
   },
   "showQuestion": {
-    "dataSource": "cloudant",
+    "dataSource": "cloudant2",
     "public": true,
     "$promise": {},
     "$resolved": true
   },
   "answer": {
-    "dataSource": "cloudant",
+    "dataSource": "cloudant2",
     "public": true,
     "$promise": {},
     "$resolved": true
   },
   "komentar": {
-    "dataSource": "cloudant",
+    "dataSource": "cloudant2",
     "public": true,
     "$promise": {},
     "$resolved": true
