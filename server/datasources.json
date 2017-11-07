@@ -17,7 +17,7 @@
 
   "cloudant2": {
     "name": "cloudant2",
-    "connector": "cloudant2",
+    "connector": "cloudant",
     "database": "utbeyonddb",
     "user": "714c992b-2b72-440c-9833-aea9d70400d0-bluemix",
     "username": "714c992b-2b72-440c-9833-aea9d70400d0-bluemix",
