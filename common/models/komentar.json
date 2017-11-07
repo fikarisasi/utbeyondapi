@@ -1,0 +1,27 @@
+{
+  "name": "komentar",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "mixins": {
+    "TimeStamp": {
+      "createdAt": "created_at",
+      "updatedAt": "updated_at"
+    },
+    "SoftDelete": true
+  },
+  "properties": {
+    "nama": {
+      "type": "string"
+    },
+    "komentar": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
